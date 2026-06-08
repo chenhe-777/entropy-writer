@@ -11,6 +11,9 @@
 4. 加载 references/khazix-extracted.md 作为 Stage 2 的素材池参考
 5. 加载 references/khazix-boundary.md 确认卡兹克模块使用边界
 
+## 当前版本
+v1.14 · 端到端测试校准版
+
 ## 优先级
 ```
 用户本次明确要求
